@@ -2,7 +2,7 @@
 
 About me:
 - :school: I'm a Computer Science student in IFCE ([Instituto Federal de Educação, Ciência e Tecnologia do Ceará](https://ifce.edu.br))
-- :mortar_board: Técnica em Informática pela [EEEP Deputado José Maria Melo](http://eeepdepjosemariamelo.blogspot.com/)
+- :mortar_board: Computer Technician by [EEEP Deputado José Maria Melo](http://eeepdepjosemariamelo.blogspot.com/)
 - :email: Send me an [email](mailto:estefane.infor2@gmail.com) if you want to contact me 
 <br/>
 
